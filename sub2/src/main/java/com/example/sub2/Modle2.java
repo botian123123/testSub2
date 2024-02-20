@@ -1,4 +1,4 @@
-package main.java.com.example.sub2;
+package com.example.sub2;
 
 
 public class Modle2 {
